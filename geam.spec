@@ -1,6 +1,6 @@
 # TODO: init script, user/group
 Summary:	GEAM Encrypts Automagically Mail
-Summary(pl):	GEAM - automagiczne szyfrowanie poczty
+Summary(pl.UTF-8):   GEAM - automagiczne szyfrowanie poczty
 Name:		geam
 Version:	0.8.4
 Release:	0.1
@@ -18,11 +18,11 @@ GEAM (GEAM Encrypts Automagically Mail) is a SMTP proxy which is able
 to encrypt or decrypt mail on the fly. It is not a full MTA as it
 depends on smarthosts for routing.
 
-%description -l pl
+%description -l pl.UTF-8
 GEAM (GEAM Encrypts Automagically Mail, czyli GEAM automagicznie
-szyfruje pocztê) to proxy SMTP potrafi±ce szyfrowaæ i odszyfrowywaæ
-pocztê w locie. Nie jest to pe³ny MTA jako ¿e do routingu poczty
-polega na zewnêtrznych smarthostach.
+szyfruje pocztÄ™) to proxy SMTP potrafiÄ…ce szyfrowaÄ‡ i odszyfrowywaÄ‡
+pocztÄ™ w locie. Nie jest to peÅ‚ny MTA jako Å¼e do routingu poczty
+polega na zewnÄ™trznych smarthostach.
 
 %prep
 %setup -q
