@@ -1,6 +1,6 @@
 # TODO: init script, user/group
 Summary:	GEAM Encrypts Automagically Mail
-Summary(pl.UTF-8):   GEAM - automagiczne szyfrowanie poczty
+Summary(pl.UTF-8):	GEAM - automagiczne szyfrowanie poczty
 Name:		geam
 Version:	0.8.4
 Release:	0.1
