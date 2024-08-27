@@ -6,9 +6,9 @@ Version:	0.8.4
 Release:	0.1
 License:	GPL v2+
 Group:		Networking/Daemons
-Source0:	ftp://ftp.gnupg.org/gcrypt/geam/%{name}-%{version}.tar.gz
+Source0:	https://www.gnupg.org/ftp/gcrypt/geam/%{name}-%{version}.tar.gz
 # Source0-md5:	cc35eec9b3f7d9f2e427bd1de4a59b8d
-URL:		http://www.gnupg.org/
+URL:		https://www.gnupg.org/
 BuildRequires:	pth-devel >= 1.2.1
 Requires:	gnupg >= 1.0.6
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
